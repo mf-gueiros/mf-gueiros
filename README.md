@@ -7,6 +7,8 @@
 
 :computer: Currently working as a Data Engineer for a consulting firm in Brazil, developing data solutions for various types of clients
 
+:trophy: Microsoft Certified: Azure Data Engineer (DP-203)
+
 :pencil: Enthusiast for data and technology since the beginning of my studies
 
 ⚡ Studying and developing new projects in Data Science
